@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![frame_generic_dark](https://user-images.githubusercontent.com/65346989/127514941-41e8b63e-8639-4826-9016-1f20d2f95ff0.png)
+  ![frame_generic_dark (1)](https://user-images.githubusercontent.com/65346989/127515412-86f5b676-7a9a-4f3f-b0f6-eca47d32cc15.png)
   
   👋 Hi, I'm EunGyeong Nam.
   
