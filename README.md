@@ -1,7 +1,7 @@
-![frame_generic_dark (1)](https://user-images.githubusercontent.com/65346989/127503226-a43b46e7-0b2d-4d72-9be9-11656527b58b.png)
-
-
 <div align="center">
+  
+  ![frame_generic_dark](https://user-images.githubusercontent.com/65346989/127514941-41e8b63e-8639-4826-9016-1f20d2f95ff0.png)
+  
   👋 Hi, I'm EunGyeong Nam.
   
   🏃‍♀️ My strengths are sincerity and persistence.
